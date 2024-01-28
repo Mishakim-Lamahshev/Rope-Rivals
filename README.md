@@ -27,18 +27,11 @@ Challenge friends to friendly matches and experience the joy of head-to-head tug
 
 ## 🚀 Getting Started:
 
-1. Download and install Rope Rivals on your preferred device.
-2. Create your formidable Tug Warrior and personalize your gear.
-3. Dive into epic tug-of-war battles by challenging friends or entering tournaments.
-4. Train your Tug Warrior to perfection and climb the global ranks.
-5. Collect rewards, upgrade gear, and strive for the coveted title of Rope Rivals Champion! 🏆
+🎮 Play Now: [Rope Rivals Demo on itch.io](https://mishakim-lamahshev.itch.io/roperivals)
+- Press A to pull the rope to the left.
+- Press the Right Arrow to pull the rope to the right.
+- The player who successfully pulls the rope to their side wins the round.
 
 Embark on a tugging adventure like never before – the revolution begins now! 🎉
 
 **Rope Rivals: Unleash the Tug-of-War Revolution and Cement Your Legacy as the Ultimate Tug Warrior! 🚀👑**
-
-
-
-
-##### This README was created by GPT help 
-![](https://i.ibb.co/rZm3ZP3/image.png)

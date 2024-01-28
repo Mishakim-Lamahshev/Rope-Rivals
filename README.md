@@ -35,3 +35,6 @@ Challenge friends to friendly matches and experience the joy of head-to-head tug
 Embark on a tugging adventure like never before – the revolution begins now! 🎉
 
 **Rope Rivals: Unleash the Tug-of-War Revolution and Cement Your Legacy as the Ultimate Tug Warrior! 🚀👑**
+
+### Credits:
+- Developing this game: [Ofek Rotem](https://github.com/ofekrotem) & [Yonatan Tal](https://github.com/YoniTal6899)
